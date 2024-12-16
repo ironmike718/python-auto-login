@@ -1,2 +1,11 @@
 # python-auto-login
 a python script that will automatically ssh/telnet to a target device
+
+## prerequisities
+* linux, wsl
+* python pexpect module
+* the mypyvars.py file with username and password defined (yeah i know :))
+
+## usage
+./autologin.pl <ip addr>
+i created a command alias in .bashrc so i can exeucte with a short name
