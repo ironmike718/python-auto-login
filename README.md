@@ -3,7 +3,7 @@ a python script that will automatically ssh/telnet to a target device
 
 ## prerequisities
 * linux, wsl
-* bash, telnet, ssh
+* bash, telnet, ssh, python3
 * python pexpect module
 * the mypyvars.py file with username and password defined (yeah i know :))
 
